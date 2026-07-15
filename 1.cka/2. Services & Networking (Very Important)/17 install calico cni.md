@@ -1,6 +1,9 @@
+> **Original repo:** https://github.com/devSatym/Kubernetes-Playbook
+> **Creator:** devSatym
+
 <!-- 
-GitHub: https://github.com/devSatym/Kubernetes-Playbook
-Username: devSatym
+Original repo: https://github.com/devSatym/Kubernetes-Playbook
+Creator: devSatym
 -->
 
 # CKA: Installing Calico CNI with Tigera Operator for Single Node Platform
@@ -333,7 +336,10 @@ kubectl get networkpolicy -n policy-test
 ```
 
 
+> **Original repo:** https://github.com/devSatym/Kubernetes-Playbook
+> **Creator:** devSatym
+
 <!-- 
-GitHub: https://github.com/devSatym/Kubernetes-Playbook
-Username: devSatym
+Original repo: https://github.com/devSatym/Kubernetes-Playbook
+Creator: devSatym
 -->

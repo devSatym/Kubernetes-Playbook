@@ -1,6 +1,9 @@
+> **Original repo:** https://github.com/devSatym/Kubernetes-Playbook
+> **Creator:** devSatym
+
 <!-- 
-GitHub: https://github.com/devSatym/Kubernetes-Playbook
-Username: devSatym
+Original repo: https://github.com/devSatym/Kubernetes-Playbook
+Creator: devSatym
 -->
 # Kubernetes Playbook
 
@@ -206,7 +209,10 @@ Feel free to open an Issue or submit a Pull Request.
 
 If these notes help you in your Kubernetes journey, consider giving the repository a ⭐.
 
+> **Original repo:** https://github.com/devSatym/Kubernetes-Playbook
+> **Creator:** devSatym
+
 <!-- 
-GitHub: https://github.com/devSatym/Kubernetes-Playbook
-Username: devSatym
+Original repo: https://github.com/devSatym/Kubernetes-Playbook
+Creator: devSatym
 -->
