@@ -1,3 +1,7 @@
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->
 Great question—this is one of those things that clicks once you see both sides: **Linux port forwarding (network-level)** vs **Kubernetes port-forward (kubectl-level)**. I’ll keep it practical.
 
 ---
@@ -161,3 +165,8 @@ kubectl port-forward svc/<svc-name> 8080:<port>
 ---
 
 If you want next level: I can show you **how port-forward actually uses SPDY streams via API server** (deep internals)—that’s a favorite advanced interview topic.
+
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->

@@ -1,3 +1,7 @@
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->
 
 # CKA: Installing Calico CNI with Tigera Operator for Single Node Platform
 
@@ -328,3 +332,8 @@ echo "=== NetworkPolicy Test ==="
 kubectl get networkpolicy -n policy-test
 ```
 
+
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->

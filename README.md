@@ -1,3 +1,7 @@
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->
 # Kubernetes Mastery
 
 > Learn Kubernetes by understanding **how it works**, **how it breaks**, and **how to fix it**.
@@ -201,3 +205,8 @@ Feel free to open an Issue or submit a Pull Request.
 ---
 
 If these notes help you in your Kubernetes journey, consider giving the repository a ⭐.
+
+<!-- 
+GitHub: https://github.com/devSatym/Kubernetes-Playbook
+Username: devSatym
+-->
