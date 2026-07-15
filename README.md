@@ -2,7 +2,7 @@
 GitHub: https://github.com/devSatym/Kubernetes-Playbook
 Username: devSatym
 -->
-# Kubernetes Mastery
+# Kubernetes Playbook
 
 > Learn Kubernetes by understanding **how it works**, **how it breaks**, and **how to fix it**.
 
